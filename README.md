@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adil-mukhtar&show_icons=true&locale=en" alt="adil-mukhtar" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adil-mukhtar&show_icons=true&theme=radical)
